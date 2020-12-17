@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.codeActionsOnSave": null,
+    "editor.mouseWheelZoom": true,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "explorer.confirmDelete": false,
+    "vetur.format.options.tabSize": 4,
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace",
+        "gitlens.codeLens.scopes": [
+            "document"
+        ]
+    },
+    "typescript.validate.enable": false,
+    "typescript.validate.enable": false,
+}
